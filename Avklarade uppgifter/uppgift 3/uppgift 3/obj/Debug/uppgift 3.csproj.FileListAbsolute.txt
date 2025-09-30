@@ -6,3 +6,11 @@ C:\Users\Axevalla\Desktop\HampusE\uppgift 3\uppgift 3\obj\Debug\uppgift 3.csproj
 C:\Users\Axevalla\Desktop\HampusE\uppgift 3\uppgift 3\obj\Debug\uppgift 3.exe
 C:\Users\Axevalla\Desktop\HampusE\uppgift 3\uppgift 3\obj\Debug\uppgift 3.pdb
 C:\Users\Axevalla\Desktop\HampusE\uppgift 3\uppgift 3\obj\Debug\uppgift 3.exe.config
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 03 - Operander och beräkningar\uppgift 3\uppgift 3\bin\Debug\uppgift 3.exe.config
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 03 - Operander och beräkningar\uppgift 3\uppgift 3\bin\Debug\uppgift 3.exe
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 03 - Operander och beräkningar\uppgift 3\uppgift 3\bin\Debug\uppgift 3.pdb
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 03 - Operander och beräkningar\uppgift 3\uppgift 3\obj\Debug\uppgift 3.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 03 - Operander och beräkningar\uppgift 3\uppgift 3\obj\Debug\uppgift 3.exe.config
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 03 - Operander och beräkningar\uppgift 3\uppgift 3\obj\Debug\uppgift 3.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 03 - Operander och beräkningar\uppgift 3\uppgift 3\obj\Debug\uppgift 3.exe
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 03 - Operander och beräkningar\uppgift 3\uppgift 3\obj\Debug\uppgift 3.pdb
