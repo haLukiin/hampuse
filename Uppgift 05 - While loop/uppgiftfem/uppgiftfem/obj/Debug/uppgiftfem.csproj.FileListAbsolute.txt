@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\uppgiftfem\uppgiftfem\bin\Debug\uppgiftfem.exe.config
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\uppgiftfem\uppgiftfem\bin\Debug\uppgiftfem.exe
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\uppgiftfem\uppgiftfem\bin\Debug\uppgiftfem.pdb
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\uppgiftfem\uppgiftfem\obj\Debug\uppgiftfem.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\uppgiftfem\uppgiftfem\obj\Debug\uppgiftfem.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\uppgiftfem\uppgiftfem\obj\Debug\uppgiftfem.exe
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\uppgiftfem\uppgiftfem\obj\Debug\uppgiftfem.pdb
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\uppgiftfem\uppgiftfem\obj\Debug\uppgiftfem.exe.config
