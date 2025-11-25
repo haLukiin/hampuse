@@ -1,0 +1,8 @@
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 06 - Switch\uppgift 6\bin\Debug\uppgift 6.exe.config
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 06 - Switch\uppgift 6\bin\Debug\uppgift 6.exe
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 06 - Switch\uppgift 6\bin\Debug\uppgift 6.pdb
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 06 - Switch\uppgift 6\obj\Debug\uppgift 6.csproj.AssemblyReference.cache
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 06 - Switch\uppgift 6\obj\Debug\uppgift 6.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 06 - Switch\uppgift 6\obj\Debug\uppgift 6.exe
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 06 - Switch\uppgift 6\obj\Debug\uppgift 6.pdb
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 06 - Switch\uppgift 6\obj\Debug\uppgift 6.exe.config

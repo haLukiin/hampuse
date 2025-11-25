@@ -1,0 +1,5 @@
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Axevalla\Desktop\HampusE\hampuse\Uppgift 05 - While loop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
