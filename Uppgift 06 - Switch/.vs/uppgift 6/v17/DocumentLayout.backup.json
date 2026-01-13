@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Desktop\\HampusE\\hampuse\\Uppgift 06 - Switch\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Desktop\\hampusE\\hampuse\\Uppgift 06 - Switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2492B2-B1BB-47F3-847E-D389E0754C89}|uppgift 6\\uppgift 6.csproj|c:\\users\\axevalla\\desktop\\hampuse\\hampuse\\uppgift 06 - switch\\uppgift 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2492B2-B1BB-47F3-847E-D389E0754C89}|uppgift 6\\uppgift 6.csproj|solutionrelative:uppgift 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Axevalla\\Desktop\\hampusE\\hampuse\\Uppgift 06 - Switch\\uppgift 6\\Program.cs",
+              "RelativeDocumentMoniker": "uppgift 6\\Program.cs",
+              "ToolTip": "C:\\Users\\Axevalla\\Desktop\\hampusE\\hampuse\\Uppgift 06 - Switch\\uppgift 6\\Program.cs",
+              "RelativeToolTip": "uppgift 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:03:01.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
