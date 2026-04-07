@@ -1,0 +1,8 @@
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 08 - Sten, sax, påse\stensaxbag\stensaxbag\bin\Debug\stensaxbag.exe.config
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 08 - Sten, sax, påse\stensaxbag\stensaxbag\bin\Debug\stensaxbag.exe
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 08 - Sten, sax, påse\stensaxbag\stensaxbag\bin\Debug\stensaxbag.pdb
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 08 - Sten, sax, påse\stensaxbag\stensaxbag\obj\Debug\stensaxbag.csproj.AssemblyReference.cache
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 08 - Sten, sax, påse\stensaxbag\stensaxbag\obj\Debug\stensaxbag.csproj.CoreCompileInputs.cache
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 08 - Sten, sax, påse\stensaxbag\stensaxbag\obj\Debug\stensaxbag.exe
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 08 - Sten, sax, påse\stensaxbag\stensaxbag\obj\Debug\stensaxbag.pdb
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 08 - Sten, sax, påse\stensaxbag\stensaxbag\obj\Debug\stensaxbag.exe.config

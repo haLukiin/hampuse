@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Axevalla\\Desktop\\hampusE\\hampuse\\Uppgift 06 - Switch\\",
+  "WorkspaceRootPath": "C:\\Users\\pontu_kat16n9\\Documents\\hampusE\\hampuse\\Uppgift 06 - Switch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA2492B2-B1BB-47F3-847E-D389E0754C89}|uppgift 6\\uppgift 6.csproj|c:\\users\\axevalla\\desktop\\hampuse\\hampuse\\uppgift 06 - switch\\uppgift 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA2492B2-B1BB-47F3-847E-D389E0754C89}|uppgift 6\\uppgift 6.csproj|c:\\users\\pontu_kat16n9\\documents\\hampuse\\hampuse\\uppgift 06 - switch\\uppgift 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA2492B2-B1BB-47F3-847E-D389E0754C89}|uppgift 6\\uppgift 6.csproj|solutionrelative:uppgift 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Axevalla\\Desktop\\hampusE\\hampuse\\Uppgift 06 - Switch\\uppgift 6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pontu_kat16n9\\Documents\\hampusE\\hampuse\\Uppgift 06 - Switch\\uppgift 6\\Program.cs",
               "RelativeDocumentMoniker": "uppgift 6\\Program.cs",
-              "ToolTip": "C:\\Users\\Axevalla\\Desktop\\hampusE\\hampuse\\Uppgift 06 - Switch\\uppgift 6\\Program.cs",
+              "ToolTip": "C:\\Users\\pontu_kat16n9\\Documents\\hampusE\\hampuse\\Uppgift 06 - Switch\\uppgift 6\\Program.cs",
               "RelativeToolTip": "uppgift 6\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwCcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

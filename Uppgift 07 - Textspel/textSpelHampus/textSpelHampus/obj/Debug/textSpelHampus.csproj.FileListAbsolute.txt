@@ -6,3 +6,11 @@ C:\Users\Axevalla\Desktop\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\t
 C:\Users\Axevalla\Desktop\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\obj\Debug\textSpelHampus.exe
 C:\Users\Axevalla\Desktop\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\obj\Debug\textSpelHampus.pdb
 C:\Users\Axevalla\Desktop\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\obj\Debug\textSpelHampus.exe.config
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\bin\Debug\textSpelHampus.exe.config
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\bin\Debug\textSpelHampus.exe
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\bin\Debug\textSpelHampus.pdb
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\obj\Debug\textSpelHampus.csproj.AssemblyReference.cache
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\obj\Debug\textSpelHampus.exe.config
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\obj\Debug\textSpelHampus.csproj.CoreCompileInputs.cache
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\obj\Debug\textSpelHampus.exe
+C:\Users\pontu_kat16n9\Documents\hampusE\hampuse\Uppgift 07 - Textspel\textSpelHampus\textSpelHampus\obj\Debug\textSpelHampus.pdb
